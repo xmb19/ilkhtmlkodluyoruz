@@ -1,3 +1,3 @@
 # İlk Html Sayfam
 
-![websayfasi](img\web.png)
+![websayfasi](https://github.com/xmb19/ilkhtmlkodluyoruz/blob/master/img/web.png)
