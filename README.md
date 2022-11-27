@@ -1,3 +1,3 @@
 # İlk Html Sayfam
 
-![web](img\web.png)
+![websayfasi](img\web.png)
